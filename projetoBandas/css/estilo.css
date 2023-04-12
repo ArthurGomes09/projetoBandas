@@ -1,0 +1,128 @@
+.quadrado{
+    margin-top: 200px;
+    text-align: center;
+}
+#aluno1{
+    position: absolute;
+    top: 370px;
+    left: 104px;
+    width: 103px;
+    height: 103px;
+    border-radius: 50%;
+}
+#aluno2{
+    position: absolute;
+    top: 370px;
+    left: 865px;
+    width: 103px;
+    height: 103px;
+    border-radius: 50%;
+}
+#aluno3{
+    position: absolute;
+    top: 850px;
+    left: 104px;
+    width: 103px;
+    height: 103px;
+    border-radius: 50%;
+}
+#aluno4{
+    position: absolute;
+    top: 850px;
+    left: 865px;
+    width: 103px;
+    height: 103px;
+    border-radius: 50%;
+}
+
+.desc1{
+    background-color:#00000080 ;
+    position: absolute;
+    top: 375px;
+    left: 225px;
+    padding: 10px;
+    height: 45px;
+    border-radius: 20px;
+}
+.desc2{
+    background-color:#00000080 ;
+    position: absolute;
+    top: 375px;
+    left: 985px;
+    padding: 10px;
+    height: 45px;
+    border-radius: 20px;
+}
+.desc3{
+    background-color:#00000080 ;
+    position: absolute;
+    top: 850px;
+    left: 225px;
+    padding: 10px;
+    height: 45px;
+    border-radius: 20px;
+}
+.desc4{
+    background-color:#00000080 ;
+    position: absolute;
+    top: 850px;
+    left: 985px;
+    padding: 10px;
+    height: 45px;
+    border-radius: 20px;
+}
+
+.perfil1{
+    background-color:#00000080 ;
+    position: absolute;
+    top: 430px;
+    left: 225px;
+    padding: 10px;
+    height: 45px;
+    border-radius: 20px;
+}
+.perfil2{
+    background-color:#00000080 ;
+    position: absolute;
+    top: 430px;
+    left: 985px;
+    padding: 10px;
+    height: 45px;
+    border-radius: 20px;
+}
+.perfil3{
+    background-color:#00000080 ;
+    position: absolute;
+    top: 905px;
+    left: 225px;
+    padding: 10px;
+    height: 45px;
+    border-radius: 20px;
+}
+.perfil4{
+    background-color:#00000080 ;
+    position: absolute;
+    top: 905px;
+    left: 985px;
+    padding: 10px;
+    height: 45px;
+    border-radius: 20px;
+}
+#cabelinho:hover{
+    transition: .5s;
+    border: 5px solid darkcyan;
+    width: 750px;
+    height: 431.99px;
+}
+#metallica:hover{
+    transition: .5s;
+    border: 5px solid darkcyan;
+}
+#iron:hover{
+    transition: .5s;
+    border: 5px solid darkcyan;
+}
+#l7:hover{
+    transition: .5s;
+    border: 5px solid darkcyan;
+}

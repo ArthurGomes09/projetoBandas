@@ -1,9 +1,22 @@
-const coracao = document.getElementById("coracao")
+const coracao1 = document.getElementById("coracao1")
+const img1 = document.getElementById("vermelho1")
 
-coracao.addEventListener('click',()=>{
-   if(coracao.style.fill == "red"){
-    coracao.style.fill = 'white'
+coracao1.addEventListener('click',()=>{
+   debugger
+   if(img1.getAttribute('src')==="../imgs arthur/Vector.svg"){
+    img1.setAttribute('src', '../imgs arthur/Vector (1).svg')
    }else{
-    coracao.style.fill = 'red'
+      img1.setAttribute('src', '../imgs arthur/Vector.svg')
+   }
+})
+const coracao2 = document.getElementById("coracao2")
+const img2 = document.getElementById("vermelho2")
+
+coracao1.addEventListener('click',()=>{
+   debugger
+   if(img1.getAttribute('src')==="../imgs arthur/Vector.svg"){
+    img1.setAttribute('src', '../imgs arthur/Vector (1).svg')
+   }else{
+      img1.setAttribute('src', '../imgs arthur/Vector.svg')
    }
 })

@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #696969;
+}
+
+.img01{
+    width: 100%;
+}
+
+.nome{
+    color: #fff;
+    text-align: center;
+    position: relative;
+    top: -542px;
+}
+
+p{
+    font-size: 25px;
+}
+
+.caixa1{
+    background-color: #fff;
+    width: 442px;
+    height: 61px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.foto1{
+    border-radius: 10px;
+    width: 55px;
+}
+
+.foto2{
+    border-radius: 10px;
+    width: 55px;
+}
+
+.foto3{
+    border-radius: 10px;
+    width: 77px
+}
+
+.foto4{
+    border-radius: 10px;
+    width: 90px;
+}
+
+.caixa2{
+    background-color: #fff;
+    width: 442px;
+    height: 61px;
+    position: absolute;
+    left: 1296px;
+    text-align: center;
+    top: 1389px;
+    border-radius: 10px;
+}
+
+.caixa3{
+    background-color: #fff;
+    width: 442px;
+    height: 61px;
+    position: absolute;
+    left: 1296px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.caixa4{
+    background-color: #fff;
+    width: 442px;
+    height: 61px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.vd1{
+    width: 500px;
+    height: 300px;
+}
+
+.vd2{
+    width: 500px;
+    height: 300px;
+}
+
+.vd3{
+    width: 500px;
+    height: 300px;
+}
+
+.vd4{
+    width: 500px;
+    height: 300px;
+}

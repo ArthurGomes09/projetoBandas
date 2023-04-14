@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+body{
+    background-color: #e6e6e6;
+}
+
+.img{
+    width: 105%;
+    height: 1000px;
+}
+
+.nome{
+    position: absolute;
+    top: 580px;
+    left: 1050px;
+    font-size: 80px
+}
+
+
+.sobre{
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+p{
+    font-size: 25px;
+    
+
+}
+.titulo1{
+    font-size: 50px;
+    text-align: center;
+}
+.titulo2{
+    font-size: 50px;
+    text-align: center;
+}
+
+.musicas1{
+    display: flex;
+    justify-content: center;
+    gap:10px
+}
+.musicas2{
+    display: flex;
+    justify-content: center;
+    gap:10px
+}
+.linha1{
+display: flex;
+justify-content: center;
+gap: 10px;
+}
+.linha2{
+    display: flex;
+    justify-content: center;
+    gap:10px
+    }
